@@ -1,7 +1,8 @@
 body {
     background-color: darkgray;
-    height: 125px;
-    width: 200px;
+    height: 150px;
+    width: 250px;
+    padding-bottom: 30px;
 }
 
 h1 {
