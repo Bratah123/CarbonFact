@@ -1,0 +1,9 @@
+{
+    "name": "Carbon Fact",
+    "description": "Get a random carbon footprint fact when you open your browser!",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
